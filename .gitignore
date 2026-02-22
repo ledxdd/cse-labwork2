@@ -4,6 +4,7 @@ out/
 !**/src/test/**/out/
 .kotlin
 .idea
+labwork2.iml
 
 ### Eclipse ###
 .apt_generated
